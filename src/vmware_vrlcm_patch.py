@@ -9,7 +9,7 @@ Gobuild components for vRealize LCM patch
 # vrlcm_services
 VRLCM_SERVICES_ALIAS = 'vrlcm_services'
 VRLCM_SERVICES_BRANCH = 'vrlcm-84-GA-patch1'
-VRLCM_SERVICES_CLN = 'acd146c269660f48b195eec41b259908c24dc3c9'
+VRLCM_SERVICES_CLN = 'acd146c269660f48b195eec41b259908c24dc4c9'
 VRLCM_SERVICES_BUILDTYPE = 'release'
 VRLCM_SERVICES_FILES = {'linux64-vm': [r'publish/']}
 
