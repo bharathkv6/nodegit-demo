@@ -9,11 +9,12 @@ Gobuild components for vRealize LCM patch
 # vrlcm_services
 VRLCM_SERVICES_ALIAS = 'vrlcm_services'
 VRLCM_SERVICES_BRANCH = 'vrlcm-84-GA-patch1'
-VRLCM_SERVICES_CLN = 'acd146c269660f48b195eec41b259908c24dc4c9'
+VRLCM_SERVICES_CLN = 'acd146c269660f48b195eec41b259908c24dc4ce'
 VRLCM_SERVICES_BUILDTYPE = 'release'
 VRLCM_SERVICES_FILES = {'linux64-vm': [r'publish/']}
 
 # blackstone
+NEW_KEY = 'new key'
 VREALIZE_BLACKSTONE_BRANCH = 'mana-rel'
 VREALIZE_BLACKSTONE_CLN = 'e4a6b2e9db9be2749fc186fc2ce16e293bf2d34e'
 VREALIZE_BLACKSTONE_BUILDTYPE = 'release'
